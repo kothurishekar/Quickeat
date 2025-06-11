@@ -1,7 +1,7 @@
 import React from "react";
 import Illustration from '../assets/Illustration.png'
 import Illustration2 from '../assets/Illustration2.png'
-import Illustration3 from '../assets/Illustration3.png'
+import Illustration3 from '../assets/illustration3.png'
 
 function How() {
   return (
