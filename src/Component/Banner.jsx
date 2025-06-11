@@ -1,7 +1,7 @@
 import React from "react";
 import { FaStar, FaStarHalfAlt } from "react-icons/fa";
 import { FaLocationDot } from "react-icons/fa6";
-import photo1 from "../assets/photo1.png";
+import photo1 from "../assets/photo-1.png";
 
 function Banner() {
   return (
